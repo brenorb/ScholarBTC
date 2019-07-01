@@ -1,0 +1,30 @@
+You can find the public key for this message at: http://pgp.mit.edu/pks/lookup?op=get&search=0xFAA617E32679E455
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Dear Breno Brito,
+
+Congratulations! Based on the strength of your application, we have decided to grant you a scholarship for Programming Blockchain Sao Paulo on June 12-13.
+
+We were overwhelmed with great applicants, and made extra efforts to fund as many scholarships as possible, so we hope you can make it. The location of the seminar is:
+
+Av Jurema, 326
+Moema, Sao Paulo
+
+Please respond to this email ASAP to confirm whether you are able to accept the spot, and no later than June 8.
+
+Best,
+
+Jimmy Song and the Programming Blockchain Team
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQEcBAEBCgAGBQJbGwRTAAoJEPqmF+MmeeRVZeIH/AjcM/cfIhmOFMAOhqx2BVre
+RJ+D4k1/2FwxHsvTrHrtempdmg1DI2+WxvsjRaN68XQLQWjAKCZqT7D08UQodjuq
+T+hHIDYdGlOog6U8KIL4ziRu2LzeYfvrGgUjAwnwC9fjAPxGH6D3/KvwNYrgVPi1
+hP09NH3M2O9MjC2EjPDoXbFE2HU6hUwZhBxKDYbdHgvFFqsc3jsTbP4iWP5CD5P9
+99Fs4o8yi2Al19JQyx55gQLsC/RkGAOdZpeBDFjXaq64tKlHwNnnLf0bhutOtZb5
+0ah2hfw1sdYFRHrSlefipOI6wwV3zq517IUJwbK/fJ8OUVLlI4e8XjXFToMSqh8=
+=C7mM
+-----END PGP SIGNATURE-----
